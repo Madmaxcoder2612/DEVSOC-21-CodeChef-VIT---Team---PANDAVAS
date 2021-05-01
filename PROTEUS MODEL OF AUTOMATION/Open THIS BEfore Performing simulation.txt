@@ -1,0 +1,23 @@
+Hello there,
+
+Instructions:
+
+Step-1:
+
+Before opening the Proteus file for the simulation of the model that we have created, please open "WMS_AUTOMATION_RELAY.ino"
+Arduino code file and Compile it.
+
+Step-2:
+
+After Compiling it, Copy the directory path of the file where it is saved , (usually path is found in the compile window ending 
+with".elf")
+
+Step-3:
+After copying it, open the proteus model(do not run the model directly) and double click the arduino Uno and copy the path 
+to the "hex file" section in the Dialog box), after this click apply and okay.
+
+Step-4:
+Now run the model and here the relay is attached to pin -6 , So press "F" for speeding fast the motor and "f" to lower the speed
+of the motor.
+
+thank you.
